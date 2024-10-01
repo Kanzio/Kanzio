@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
-- 📫 How to reach me **ahmadrheznov@gmail.com**
+- 📫 How to reach me **ahmadfauzankanz@gmail.com**
 
 - ⚡ Fun fact **I love playing games**
 
