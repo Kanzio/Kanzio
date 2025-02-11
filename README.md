@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanzio&label=Profile%20views&color=0e75b6&style=flat" alt="kanzio" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, and ReactJS**
 
 - 📫 How to reach me **ahmadfauzankanz@gmail.com**
 
-- ⚡ Fun fact **I love playing games**
+- ⚡ Fun fact **I love playing guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
