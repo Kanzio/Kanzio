@@ -33,15 +33,6 @@
 
 ---
 
-### 📂 Featured Projects
-| **Project** | **Description** | **Tech Stack** |
-| :--- | :--- | :--- |
-| [**WorkPro**](https://github.com/kanzio) | HR & Project Management | `Next.js`, `Prisma`, `Postgres` |
-| [**GSR Logistics**](https://github.com/kanzio) | Company Profile & Assets | `React`, `Figma` |
-| [**Portfolio**](https://github.com/kanzio) | Digital Showcase | `React`, `Tailwind` |
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
