@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ My Tech Stack (Animated)
+### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,express,postgres,prisma,figma,vscode&theme=dark" />
