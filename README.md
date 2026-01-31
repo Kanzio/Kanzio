@@ -13,7 +13,7 @@
 ### 🚀 About Me
 - 💻 I build sleek web applications using **Next.js** and **NestJS**.
 - 📱 Mobile developer using **React Native**.
-- 🛠️ Currently refining **WorkPro** (HR Management System).
+- 🛠️ Currently refining **WorkPro** (HR & Project Management System).
 
 ---
 
