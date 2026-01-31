@@ -10,16 +10,6 @@
 
 ---
 
-# Hi there, I'm Ahmad Fauzan Kanz 👋
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&width=450&lines=Fullstack+Web+Developer;React+%26+Next.js+Specialist;Building+Mobile+Apps+with+RN;Minimalist+Design+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ### 🚀 About Me
 - 💻 I build sleek web applications using **Next.js** and **NestJS**.
 - 📱 Mobile developer using **React Native**.
