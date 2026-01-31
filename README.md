@@ -25,13 +25,14 @@
 ---
 
 ### 📈 GitHub Activities
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanzio&show_icons=true&theme=tokyonight&hide_border=true&title_color=4A90E2&icon_color=4A90E2" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanzio&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanzio&show_icons=true&theme=radical&hide_border=true&title_color=4A90E2&icon_color=4A90E2" width="48%" alt="Kanzio GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanzio&theme=radical&hide_border=true" width="48%" alt="Kanzio Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzio&layout=compact&theme=tokyonight&hide_border=true&title_color=4A90E2" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzio&layout=compact&theme=radical&hide_border=true&title_color=4A90E2" width="70%" alt="Kanzio Top Languages" />
 </p>
 
 ---
