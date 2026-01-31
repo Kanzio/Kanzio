@@ -1,26 +1,51 @@
-![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
-<h1 align="center">Hi 👋, I'm Ahmad Fauzan Kanz</h1>
-<h3 align="center">A computer science student from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNkMTc5OWRjMWQ3NWMwM2ZlMWM2N2MyYWEwY2E1ZmY0Nzk4Y2RiYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+# Hi there, I'm Ahmad Fauzan Kanz 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanzio&label=Profile%20views&color=0e75b6&style=flat" alt="kanzio" /> </p>
-
-- 🌱 I’m currently learning **HTML, CSS, Javascript, and ReactJS**
-
-- 📫 How to reach me **ahmadfauzankanz@gmail.com**
-
-- ⚡ Fun fact **I love playing guitar**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/geloih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geloih" height="30" width="40" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&width=450&lines=Fullstack+Web+Developer;React+%26+Next.js+Specialist;Building+Mobile+Apps+with+RN;Minimalist+Design+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanzio&show_icons=true&locale=en&layout=compact" alt="kanzio" /></p>
+### 🚀 About Me
+- 💻 I build sleek web applications using **Next.js** and **NestJS**.
+- 📱 Mobile developer using **React Native**.
+- 🛠️ Currently refining **WorkPro** (HR Management System).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanzio&show_icons=true&locale=en" alt="kanzio" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanzio&" alt="kanzio" /></p>
+### 🛠️ My Tech Stack (Animated)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,express,postgres,prisma,figma,apple,vscode&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Activities
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanzio&show_icons=true&theme=tokyonight&hide_border=true&title_color=4A90E2&icon_color=4A90E2" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanzio&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanzio&layout=compact&theme=tokyonight&hide_border=true&title_color=4A90E2" width="60%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
+</p>
