@@ -18,7 +18,7 @@
 ### 🛠️ My Tech Stack (Animated)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,express,postgres,prisma,figma,apple,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nestjs,express,postgres,prisma,figma,vscode&theme=dark" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanzio&layout=compact&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanzio&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -45,8 +45,4 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=20&section=footer" width="100%"/>
 </p>
